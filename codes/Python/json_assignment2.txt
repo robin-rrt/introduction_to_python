@@ -1,0 +1,108 @@
+{
+    "results": [
+        {
+            "access_points": [],
+            "address_components": [
+                {
+                    "long_name": "3001",
+                    "short_name": "3001",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "South Federal Boulevard",
+                    "short_name": "S Federal Blvd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Harvey Park South",
+                    "short_name": "Harvey Park South",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver",
+                    "short_name": "Denver",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver County",
+                    "short_name": "Denver County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80236",
+                    "short_name": "80236",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2711",
+                    "short_name": "2711",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "3001 S Federal Blvd, Denver, CO 80236, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.6625188,
+                    "lng": -105.0281274
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.6638677802915,
+                        "lng": -105.0267784197085
+                    },
+                    "southwest": {
+                        "lat": 39.6611698197085,
+                        "lng": -105.0294763802915
+                    }
+                }
+            },
+            "place_id": "ChIJ0V94rPl_bIcRqLdrlbjFMDk",
+            "plus_code": {
+                "compound_code": "MX7C+2P Denver, Colorado, United States",
+                "global_code": "85FPMX7C+2P"
+            },
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "university"
+            ]
+        }
+    ],
+    "status": "OK"
+}
+South Federal University
+ChIJ0V94rPl_bIcRqLdrlbjFMDk
